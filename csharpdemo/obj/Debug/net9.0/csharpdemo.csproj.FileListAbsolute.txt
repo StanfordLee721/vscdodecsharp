@@ -1,0 +1,14 @@
+C:\vscode\csharpdemo\bin\Debug\net9.0\csharpdemo.exe
+C:\vscode\csharpdemo\bin\Debug\net9.0\csharpdemo.deps.json
+C:\vscode\csharpdemo\bin\Debug\net9.0\csharpdemo.runtimeconfig.json
+C:\vscode\csharpdemo\bin\Debug\net9.0\csharpdemo.dll
+C:\vscode\csharpdemo\bin\Debug\net9.0\csharpdemo.pdb
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.AssemblyInfoInputs.cache
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.AssemblyInfo.cs
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.csproj.CoreCompileInputs.cache
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.dll
+C:\vscode\csharpdemo\obj\Debug\net9.0\refint\csharpdemo.dll
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.pdb
+C:\vscode\csharpdemo\obj\Debug\net9.0\csharpdemo.genruntimeconfig.cache
+C:\vscode\csharpdemo\obj\Debug\net9.0\ref\csharpdemo.dll
