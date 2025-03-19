@@ -1,0 +1,14 @@
+C:\vscode\vscdebugdemo\bin\Debug\net9.0\vscdebugdemo.exe
+C:\vscode\vscdebugdemo\bin\Debug\net9.0\vscdebugdemo.deps.json
+C:\vscode\vscdebugdemo\bin\Debug\net9.0\vscdebugdemo.runtimeconfig.json
+C:\vscode\vscdebugdemo\bin\Debug\net9.0\vscdebugdemo.dll
+C:\vscode\vscdebugdemo\bin\Debug\net9.0\vscdebugdemo.pdb
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.AssemblyInfoInputs.cache
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.AssemblyInfo.cs
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.csproj.CoreCompileInputs.cache
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.dll
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\refint\vscdebugdemo.dll
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.pdb
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\vscdebugdemo.genruntimeconfig.cache
+C:\vscode\vscdebugdemo\obj\Debug\net9.0\ref\vscdebugdemo.dll

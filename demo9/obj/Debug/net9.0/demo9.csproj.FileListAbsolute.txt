@@ -1,0 +1,14 @@
+D:\vs_code\demo9\bin\Debug\net9.0\demo9.exe
+D:\vs_code\demo9\bin\Debug\net9.0\demo9.deps.json
+D:\vs_code\demo9\bin\Debug\net9.0\demo9.runtimeconfig.json
+D:\vs_code\demo9\bin\Debug\net9.0\demo9.dll
+D:\vs_code\demo9\bin\Debug\net9.0\demo9.pdb
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.AssemblyInfoInputs.cache
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.AssemblyInfo.cs
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.csproj.CoreCompileInputs.cache
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.dll
+D:\vs_code\demo9\obj\Debug\net9.0\refint\demo9.dll
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.pdb
+D:\vs_code\demo9\obj\Debug\net9.0\demo9.genruntimeconfig.cache
+D:\vs_code\demo9\obj\Debug\net9.0\ref\demo9.dll

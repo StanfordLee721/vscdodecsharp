@@ -1,0 +1,4 @@
+C:\vscode\oopdemo\obj\Debug\net9.0\oopdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\oopdemo\obj\Debug\net9.0\oopdemo.AssemblyInfoInputs.cache
+C:\vscode\oopdemo\obj\Debug\net9.0\oopdemo.AssemblyInfo.cs
+C:\vscode\oopdemo\obj\Debug\net9.0\oopdemo.csproj.CoreCompileInputs.cache
