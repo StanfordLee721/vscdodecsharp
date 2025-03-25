@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>mvcdemo</name>
+    </assembly>
+    <members>
+        <member name="T:Person">
+            <summary>
+            個人的類別
+            </summary>
+        </member>
+        <member name="P:Person.Id">
+            <summary>
+            個人的 ID
+            </summary>
+        </member>
+        <member name="P:Person.PersonNo">
+            <summary>
+            個人的編號
+            </summary>
+        </member>
+        <member name="P:Person.PersonName">
+            <summary>
+            個人的姓名
+            </summary>
+        </member>
+    </members>
+</doc>

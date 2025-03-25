@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<input id="clickMe" type="button" value="執行程式" onclick="doFunction();" />
+<input id="clickMe" type="button" value="執行程式2" onclick="doFunction2();" />
+<input id="clickMe" type="button" value="執行程式3" onclick="doFunction3();" />
+<input id="clickMe" type="button" value="執行程式4" onclick="doFunction4();" />
+<script>
+    function doFunction() {
+        console.time("timer");
+
+        for (let i = 0; i < 10; i++) {
+            console.log({ i });
+        }
+
+        console.timeEnd("timer");
+    }
+
+    function doFunction2() {
+        function a() {
+            console.trace();
+        }
+
+        function b() {
+            a();
+        }
+
+        function c() {
+            b();
+        }
+
+        b();
+        c();
+    }
+
+    function doFunction3() {
+
+        console.log("log 是用來顯示一般訊息");
+        console.info("info 是用來顯示提示訊息");
+        console.warn("warn 是用來顯示警告訊息");
+        console.error("error 是用來顯示錯誤訊息");
+    }
+    function doFunction4() {
+        let a = "apple";
+        console.log(
+            "%c a = %s",
+            "color:red; font-size: 35px; background-color: yellow",
+            a
+        );
+    }
+
+
+
+</script>
